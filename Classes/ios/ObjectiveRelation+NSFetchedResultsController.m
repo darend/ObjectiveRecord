@@ -22,7 +22,7 @@
 
 #import "ObjectiveRelation+NSFetchedResultsController.h"
 
-@implementation ObjectiveRelation (NSFetchedResultsController)
+@implementation CoreDataRelation (NSFetchedResultsController)
 
 - (NSFetchedResultsController *)fetchedResultsController {
     return [[NSFetchedResultsController alloc] initWithFetchRequest:[self fetchRequest]

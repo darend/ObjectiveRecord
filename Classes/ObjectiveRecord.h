@@ -20,6 +20,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
+#import "CoreDataManager.h"
 #import "NSManagedObject+ActiveRecord.h"
 #import "NSManagedObject+Mappings.h"
 #import "ObjectiveRelation.h"
