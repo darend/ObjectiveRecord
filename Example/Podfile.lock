@@ -19,7 +19,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Kiwi: d60d7498b640a16f58b01925fc3c8d7c4d809f66
-  ObjectiveRecord: 109a6c583284c2c9af1dc0d6ccc1dfc84e826c45
+  ObjectiveRecord: bb24688e5d61d6cf396bbe4a7d2825f68f1b6ed6
   ObjectiveSugar: fed588577bcf9733546aeaa089de444e4bab9a52
 
-COCOAPODS: 0.29.0
+COCOAPODS: 0.31.0
